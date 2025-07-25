@@ -5,6 +5,9 @@ and files I typically use as a starting point.
 
 ## Renovate setup
 
-The `renovate.json` file is used to configure Renovate, a tool for automating
-dependency updates. Renovate helps keep dependencies up to date by creating
-pull requests with the latest versions of dependencies.
+I use a global Renovate setup where I use the
+[dependency-updater](https://github.com/fredrkl/depencency-updater) repository
+to manage Renovate configuration across all my projects. Simply configure the
+self-hosted GH Application and give it access to this repository.
+
+The `renovate.json` file is used to onboard this repo.
