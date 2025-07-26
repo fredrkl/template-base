@@ -11,3 +11,12 @@ to manage Renovate configuration across all my projects. Simply configure the
 self-hosted GH Application and give it access to this repository.
 
 The `renovate.json` file is used to onboard this repo.
+
+## Gitmoji
+
+This repository uses [gitmoji](https://gitmoji.dev/) for commit messages. Setup
+the repo by running:
+
+```bash
+gitmoji -init
+```
