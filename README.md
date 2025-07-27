@@ -12,6 +12,11 @@ self-hosted GH Application and give it access to this repository.
 
 The `renovate.json` file is used to onboard this repo.
 
+## Semantic Release
+
+This uses the
+[semantic-release](https://github.com/cycjimmy/semantic-release-action) action.
+
 ## Gitmoji
 
 This repository uses [gitmoji](https://gitmoji.dev/) for commit messages. Setup
