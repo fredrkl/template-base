@@ -25,3 +25,9 @@ the repo by running:
 ```bash
 gitmoji -init
 ```
+
+## Direnv for local development secret management
+
+I use [direnv](https://direnv.net/) to manage local development secrets as
+described in the [following blog
+post](https://fredrkl.com/blog/local-developer-environment-setup/).
