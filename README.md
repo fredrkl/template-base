@@ -31,3 +31,6 @@ gitmoji -init
 I use [direnv](https://direnv.net/) to manage local development secrets as
 described in the [following blog
 post](https://fredrkl.com/blog/local-developer-environment-setup/).
+
+Remember to run `direnv allow` after cloning the repository to enable the
+`.envrc` file.
