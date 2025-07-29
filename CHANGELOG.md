@@ -1,3 +1,8 @@
+# [v1.2.0](https://github.com/fredrkl/template-base/compare/v1.1.0...v1.2.0) (2025-07-29)
+
+## ✨ New Features
+- [`89d2cc6`](https://github.com/fredrkl/template-base/commit/89d2cc6)  Gitignore
+
 # [v1.1.0](https://github.com/fredrkl/template-base/compare/v1.0.0...v1.1.0) (2025-07-27)
 
 ## ✨ New Features
