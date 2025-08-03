@@ -26,6 +26,16 @@ the repo by running:
 gitmoji -init
 ```
 
+## Pre-commit hooks
+
+This repository uses [pre-commit](https://pre-commit.com/) to manage git hooks.
+
+To install the hooks, run:
+
+```bash
+pre-commit install
+```
+
 ## Direnv for local development secret management
 
 I use [direnv](https://direnv.net/) to manage local development secrets as
