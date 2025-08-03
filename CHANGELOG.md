@@ -1,3 +1,8 @@
+# [v1.3.0](https://github.com/fredrkl/template-base/compare/v1.2.0...v1.3.0) (2025-08-03)
+
+## ✨ New Features
+- [`dea25a2`](https://github.com/fredrkl/template-base/commit/dea25a2)  Pre-commit hooks
+
 # [v1.2.0](https://github.com/fredrkl/template-base/compare/v1.1.0...v1.2.0) (2025-07-29)
 
 ## ✨ New Features
